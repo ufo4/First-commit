@@ -68,14 +68,14 @@ body {
   left: -45px;
   width: 37px;
   height: 32px;
-  background-image: url(../images/herbal.png);
+  background-image: url(../images/libro.png);
   background-size: cover;
 }
 
 /*header section*/
 .hero_area {
   height: 98vh;
-  background-image: url(../images/hero.jpg);
+  background-image: url(../images/natural-marble-pattern-background_1258-22160.avif);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -241,7 +241,7 @@ a:focus {
   margin-left: auto;
   margin-right: auto;
   padding: 75px 45px;
-  background-image: url(../images/about.jpg);
+  background-image: url(../images/aaa.avif);
   background-size: auto 100%;
   background-color: #fff;
   background-position: center;
@@ -358,14 +358,14 @@ a:focus {
 
 .contact_section {
   color: #fff;
-  background: url(../images/contact-bg.jpg);
+  background: url(../images/l.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
 
 .contact_section h2::before {
-  background-image: url(../images/herbal-white.png);
+  background-image: url(../images/libro.png);
 }
 
 .contact_section input {
@@ -499,7 +499,7 @@ a:focus {
 }
 
 .info_section {
-  background-image: url(../images/info-bg.jpg);
+  background-image: url(../images/libros-coloridos-sobre-fondo-azul_392895-174150.avif);
   background-size: cover;
   background-attachment: fixed;
 }
